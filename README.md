@@ -7,13 +7,13 @@ Welcome to the **100 Days of Coding Challenge**!
 
 ### 📅 Start Date: [19/04/2024] 
 
- 
+
 *Happy Coding, and see you at the finish line!* 🏁
 
 *Please Star the Repositry🌟*
 
 
-###  🎉 Day 1 to Day 50 Completed 🎉
+###  🎉 Day 1 to Day 50 Challenge Completed 🎉
 
 
 **#100DaysOfCode #CodeToLearn #LearningJourney**

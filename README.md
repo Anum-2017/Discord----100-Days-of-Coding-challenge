@@ -12,7 +12,7 @@ Welcome to the **100 Days of Coding Challenge**!
 *Please Star the Repositry🌟*
 
 
-### 🌟 Day 1 to Day 50 Completed 
+###  🎉 Day 1 to Day 50 Completed 🎉
 
 
 **#100DaysOfCode #CodeToLearn #LearningJourney**
